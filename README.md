@@ -1,6 +1,6 @@
 What This Script Does:
-Runs Azure CAF Compliance Checks - Uses Microsoft's PSRule.Rules.Azure module to analyze your Azure infrastructure JSON files against Cloud Adoption Framework (CAF) best practices
-Exports Raw Results to CSV - Saves the analysis results to a CSV file so you have the data in a simple, reusable format
+-Runs Azure CAF Compliance Checks - Uses Microsoft's PSRule.Rules.Azure module to analyze your Azure infrastructure JSON files against Cloud Adoption Framework (CAF) best practices
+-Exports Raw Results to CSV - Saves the analysis results to a CSV file so you have the data in a simple, reusable format
 Creates an Interactive HTML Dashboard - Transforms the CSV data into a beautiful, user-friendly webpage you can open in any browser
 Shows Pass/Fail Summary - Displays big, colored boxes at the top showing total rules checked, how many passed, and how many failed at a glance
 Provides Multiple Search Options - Lets you filter results by:
